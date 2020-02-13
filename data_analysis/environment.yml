@@ -1,0 +1,16 @@
+name: ds
+dependencies:
+  - python=3.8.0
+  - anaconda::scikit-learn
+  - anaconda::scipy
+  - anaconda::ipython
+  - anaconda::requests
+  - anaconda::pymongo
+  - anaconda::networkx
+  - anaconda::matplotlib
+  - anaconda::xlrd
+  - conda-forge::nodejs
+  - conda-forge::pandas
+  - conda-forge::numpy
+  - conda-forge::beautifulsoup4
+  - conda-forge::jupyterlab
